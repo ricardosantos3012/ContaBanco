@@ -2,7 +2,7 @@ package edu.bootcamp.conta_banco;
 
 import java.util.Scanner;
 
-public class ContaFisica {
+public class ContaTerminal {
     
     private String agencia;
     private int numeroConta;

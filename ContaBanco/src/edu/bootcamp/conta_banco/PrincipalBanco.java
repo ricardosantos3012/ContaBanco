@@ -1,9 +1,9 @@
 package edu.bootcamp.conta_banco;
 
-public class ContaBanco {
+public class PrincipalBanco {
     public static void main(String[] args) {
         
-        ContaFisica conta = new ContaFisica();
+        ContaTerminal conta = new ContaTerminal();
 
         conta.cadastrarCliente();
         conta.exibeCadastro();
